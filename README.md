@@ -1,2 +1,2 @@
 # inClassOne
-In class exercise number 1
+In class demo number 1
